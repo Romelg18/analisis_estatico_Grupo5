@@ -1,0 +1,1 @@
+# analisis_estatico_Grupo5
